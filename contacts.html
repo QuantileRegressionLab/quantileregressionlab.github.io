@@ -32,6 +32,13 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -285,34 +292,10 @@ $(document).ready(function () {
 </div>
 
 
-<form action="https://api.web3forms.com/submit" method="POST">
-  <!--<link rel ="stylesheet" href="bootstrap.css"> -->
-  <input type="hidden" name="access_key" value="e97b55a6-925f-49dd-ad4e-d8611ff32a31">
-  <fieldset>
-    <legend>Get in Touch</legend>
-    <div class="form-group">
-      <label for="exampleInputName" class="form-label mt-4">Full name</label>
-      <input type="name" name="full_name" class="form-control" id="exampleInputName" aria-describedby="nameHelp" placeholder="Enter your name">
-    </div>
-    <div class="form-group">
-      <label for="exampleInputEmail1" class="form-label mt-4">Email address</label>
-      <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-    </div>
+<p><!-- ```{r, echo=FALSE} -->
+<!-- htmltools::tags$iframe(src = "contact_form_embed.html", height=600, width="100%") -->
+<!-- ``` --></p>
 
-    <div class="form-group">
-      <label for="exampleTextarea" class="form-label mt-4">Text message</label>
-      <textarea class="form-control" name="message" id="exampleTextarea" rows="3"></textarea>
-    </div>
-    
-    <! -- Step 1: Add this line -->
-    <div class="h-captcha" data-captcha="true"></div>
-    <button type="submit" class="btn btn-secondary">Submit</button>
-  </fieldset>
-</form>
-
-<! -- Step 2: Add the script -->
-<script src="https://web3forms.com/client/script.js" async defer></script>
 
 
 

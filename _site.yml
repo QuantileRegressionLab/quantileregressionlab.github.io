@@ -23,6 +23,8 @@ output:
     theme: cosmo
     highlight: kate
     css: style.css
+    include:
+      in_header: header.html
 #    include:
 #      after_body: _footer.html
 # bibliography: biblio_lqgm.bib
