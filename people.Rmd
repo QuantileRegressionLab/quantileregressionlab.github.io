@@ -32,14 +32,14 @@ h1, h2, h3 {
 :::::::::::::: {class='row'}
 ::: {class='col-sm-4'}
 
-```{r img-with-knitr, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://https://quantileregressionlab.github.io//petrella.html)"}
+```{r img-with-knitr, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://https://quantileregressionlab.github.io/petrella.html)"}
 knitr::include_graphics("images/petrella.jpeg")
 ``` 
 
 :::
 ::: {class='col-sm-4'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Nicola Salvati](https://https://quantileregressionlab.github.io//salvati.html)"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Nicola Salvati](https://https://quantileregressionlab.github.io/salvati.html)"}
 knitr::include_graphics("images/salvati2.jpeg")
 ``` 
 
@@ -47,7 +47,7 @@ knitr::include_graphics("images/salvati2.jpeg")
 
 ::: {class='col-sm-4'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Luca Merlo](https://quantileregressionlab.github.io//merlo.html)"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Luca Merlo](https://quantileregressionlab.github.io/merlo.html)"}
 knitr::include_graphics("images/merlo.jpeg")
 ``` 
 
@@ -64,7 +64,7 @@ knitr::include_graphics("images/merlo.jpeg")
 
 ### Post-docs
 <center>
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io//foroni.html)"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html)"}
 knitr::include_graphics("images/foroni.jpg")
 ``` 
 </center>
@@ -75,14 +75,14 @@ knitr::include_graphics("images/foroni.jpg")
 :::::::::::::: {class='row'}
 ::: {class='col-sm-6'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://quantileregressionlab.github.io//andreani.html)"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://quantileregressionlab.github.io/andreani.html)"}
 knitr::include_graphics("images/andreani.jpeg")
 ``` 
 :::
 
 ::: {class='col-sm-6'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://quantileregressionlab.github.io//saiz.html)"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://quantileregressionlab.github.io/saiz.html)"}
 knitr::include_graphics("images/saiz.jpeg")
 ``` 
 
