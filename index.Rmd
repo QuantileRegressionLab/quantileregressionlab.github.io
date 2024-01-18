@@ -28,7 +28,7 @@ The methodologies developed by our group have been successfully applied, among o
 -   Climate change
 -   Poverty mapping
 
-These results have been published in several scientific journals. For a complete list see the [Publication](https://beatricefor.github.io/quantile-website-test-pages/publications.html) page .
+These results have been published in several scientific journals. For a complete list see the [Publication](https://quantileregressionlab.github.io/publications.html) page .
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ Put in your css file or directly in rmarkdown--->
 
 **Events**
 
--   Click here for the [calendar of events](https://beatricefor.github.io/quantile-website-test-pages/events.html) <br> <br>
+-   Click here for the [calendar of events](https://quantileregressionlab.github.io/events.html) <br> <br>
   
 :::
 
