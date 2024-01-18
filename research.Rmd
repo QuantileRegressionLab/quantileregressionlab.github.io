@@ -3,7 +3,8 @@ title: "Research"
 output:
   html_document:
     fig_width: 1
-    include:
+    includes:
+      in_header: header.html
       before_body: logo.html
 
 ---
