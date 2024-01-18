@@ -6,9 +6,11 @@ navbar:
       href: research.html
       icon: fa-book
     - text: "People"
-      href: people.html
       icon: fa-person
       menu:
+      - text: "Meat the Team"
+        href: people.html
+        icon: fa-users
       - text: "Network"
         href: network.html 
         icon: fa-globe
