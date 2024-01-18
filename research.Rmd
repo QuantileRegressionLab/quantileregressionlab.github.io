@@ -1,0 +1,40 @@
+---
+title: "Research"
+output:
+  html_document:
+    fig_width: 1
+    include:
+      before_body: logo.html
+
+---
+
+
+The research of our group is focused on developing methodologies concerning the following key areas:
+<br>
+
+**Multivariate Quantiles**
+We specialize in the development of advanced M-quantiles techniques for analyzing the multivariate distributions, going beyond traditional quantile-based approaches.
+<br>
+**Machine Learning**
+We integrate machine learning methods into quantile regression analysis, leveraging the power of machine learning algorithms for predictive modeling.
+<br>
+**Quantile Graphical Models**
+We develop graphical models that allow for the exploration of dependencies between variables based on quantiles, which provides robust insights into data relationships.
+<br>
+**Mixed Frequency Data**
+We develop quantile regression models to integrate and analyze data observed at different frequencies.
+<br>
+**Hidden Markov Models**
+We investigate the use of Hidden Markov Models in quantile regression with applications in time series analysis and more.
+<br>
+**Finite Mixture Models and Mixed-Effects Models**
+We explore mixed-effects modeling approaches for analyzing hierarchical and nested data structures concerning a variety of empirical applications.
+<br>
+
+Our work has found application in:<br>
+
+- **Small Area Models in Poverty Mapping**: Our research group contributes to poverty mapping by using small area models to estimate and visualize poverty levels at fine spatial scales.
+
+- **Finance**: The methodologies developed in our group have been applied to study financial risk measures of financial index and energy commodities.
+
+- **Longitudinal data settings**: [You can provide more information about the applications in longitudinal data settings here.]

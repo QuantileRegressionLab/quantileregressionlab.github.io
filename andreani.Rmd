@@ -1,0 +1,51 @@
+---
+title: "Mila Andreani"
+
+---
+
+```{css, echo=FALSE}
+#header {
+    display: none;
+}
+```
+
+```{css, echo=FALSE}
+.myimg {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+```
+<br>
+
+:::: {.columns}
+
+::: {.column width="20%"}
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
+knitr::include_graphics("images/andreani.jpeg")
+``` 
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="75%"}
+# Mila Andreani
+
+**Data Science PhD Student at Scuola Normale Superiore**
+<!-- <br> -->
+<br>
+`r icons::fontawesome("telegram-plane")` [Website page](https://www.sns.it/it/persona/mila-andreani) 
+
+<!--`r icons::fontawesome("at")` [mila.andreani@sns.it](mailto:mila.andreani@sns.it) -->
+:::
+
+::::
+
+Mila Andreani was born in Rome, Italy in 1997. In 2018 she obtained her BSc in Business Sciences cum laude at La Sapienza university and was appointed as the best 2018 graduate student in Business Sciences by the Italian Polygraphic Institute and State Mint and La Sapienza Faculty of Economics.
+
+In July 2020, she graduated cum laude in MSc Quantitative Finance at La Sapienza university with a thesis in time series analysis. Meanwhile, she was an honor student at the Sapienza School for Advanced Studies (SSAS) and won a 10-month scholarship at La Sapienza university on the topic of sustainable finance funded by the MIUR.
+
+Before joining the PhD in Data Science, she was a trainee at the European Central Bank in the Directorate General Information Systems.

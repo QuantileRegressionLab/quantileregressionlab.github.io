@@ -1,0 +1,45 @@
+---
+title: "Luca Merlo"
+output: html_document
+---
+```{css, echo=FALSE}
+#header {
+    display: none;
+}
+```
+
+```{css, echo=FALSE}
+.myimg {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+```
+<br>
+
+:::: {.columns}
+
+::: {.column width="20%"}
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
+knitr::include_graphics("images/merlo.jpeg")
+``` 
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="75%"}
+# Luca Merlo
+
+**Researcher in Statistics at the European University of Rome (Italy), Ph.D. in Methodological Statistics.**
+<br>
+`r icons::fontawesome("telegram-plane")` [Website page](https://www.universitaeuropeadiroma.it/transizione-digitale/docenti/luca-merlo/) 
+:::
+
+::::
+
+
+**Research fields**: <br>
+His research interests include quantile regression, latent variable models, finite mixture models with applications to longitudinal, time series and correlated data. He actively collaborates with national and international institutions, including the Harvard T.H. Chan School of Public Health (US), the University of Southampton (United Kingdom) and the University of Pisa (Italy).

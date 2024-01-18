@@ -1,0 +1,45 @@
+---
+title: "Beatrice Foroni"
+output: html_document
+---
+
+```{css, echo=FALSE}
+#header {
+    display: none;
+}
+```
+
+```{css, echo=FALSE}
+.myimg {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+```
+<br>
+
+:::: {.columns}
+
+::: {.column width="20%"}
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
+knitr::include_graphics("images/foroni.jpg")
+``` 
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="75%"}
+# Beatrice Foroni
+
+**Post-doc in Statistics at Sapienza University of Rome (Italy), Ph.D. in Models for Economics and Finance.**
+<br>
+`r icons::fontawesome("telegram-plane")` [Website page](https://web.uniroma1.it/memotef/users/foroni-beatrice) 
+:::
+
+::::
+
+**Research fields**: <br>
+Her research interests include quantile regression, expectile regression, graphical models and hidden Markov models with application to time series and financial data.

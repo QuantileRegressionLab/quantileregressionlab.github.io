@@ -1,0 +1,29 @@
+name: "Quantile Regression Lab"
+navbar:
+  title: "HOME"
+  left:
+    - text: "Research"
+      href: research.html
+      icon: fa-book
+    - text: "People"
+      href: people.html
+      icon: fa-person
+    - text: "Events"
+      href: events.html
+      icon: fa-calendar
+    - text: "Publications"
+      href: publications.html
+      icon: fa-bookmark
+    - text: "Contact form"
+      href: contacts.html
+      icon: fa-message
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: kate
+    css: style.css
+#    include:
+#      after_body: _footer.html
+# bibliography: biblio_lqgm.bib
+# csl: european-journal-of-operational-research.csl

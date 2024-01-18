@@ -1,0 +1,37 @@
+---
+title: "Latest Publications"
+link-citations : true
+bibliography: bib_qrlab.bib
+csl: apa-cv.csl
+nocite: '@*'
+zoterolink: true
+---
+
+
+<!-- ## 2023 -->
+
+<!-- -  "Unified unconditional regression for multivariate quantiles, M-quantiles and expectiles" (with L.       Merlo, N. Salvati, N. Tzavidis) forthcoming  **Journal of the American Statistical Society** -->
+<!-- https://raw.githubusercontent.com/citation-style-language/styles/master/research-institute-for-nature-and-forest.csl -->
+
+<!-- csl: https://raw.githubusercontent.com/citation-style-language/styles/master/american-chemical-society.csl -->
+
+
+
+
+<!-- ## 2022 -->
+
+<div id="refs"></div>
+
+
+
+<!-- ## 2021 -->
+
+<!-- <br> -->
+
+<br>
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```     
+
+Back to top [`r fa("arrow-up", fill = "steelblue")`](#)

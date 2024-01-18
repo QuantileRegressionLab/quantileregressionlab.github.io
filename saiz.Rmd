@@ -1,0 +1,45 @@
+---
+title: "Maria Saiz"
+
+---
+
+```{css, echo=FALSE}
+#header {
+    display: none;
+}
+```
+
+```{css, echo=FALSE}
+.myimg {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+```
+<br>
+
+:::: {.columns}
+
+::: {.column width="20%"}
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
+knitr::include_graphics("images/saiz.jpeg")
+``` 
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="75%"}
+# Maria Saiz
+
+**PhD Student at Sapienza University of Rome**
+<!-- <br> -->
+<br>
+`r icons::fontawesome("telegram-plane")` [Website page](https://web.uniroma1.it/memotef/users/saiz-maria) 
+
+<!--`r icons::fontawesome("at")` [maria.saiz@uniroma1.it](mailto:maria.saiz@uniroma1.it) -->
+:::
+
+::::

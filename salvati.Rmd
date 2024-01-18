@@ -1,0 +1,49 @@
+---
+title: Nicola Salvati
+---
+
+
+```{css, echo=FALSE}
+#header {
+    display: none;
+}
+```
+
+```{css, echo=FALSE}
+.myimg {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+```
+<br>
+
+:::: {.columns}
+
+::: {.column width="20%"}
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
+knitr::include_graphics("images/salvati2.jpeg")
+``` 
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="75%"}
+# Nicola Salvati 
+
+**Associate Professor in Statistics at the University of Pisa, Ph.D. in Applied Statistics.**
+<!-- <br> -->
+<br>
+`r icons::fontawesome("telegram-plane")` [Website page](https://sites.google.com/unipi.it/nicola-salvati/home) 
+
+<!-- `r icons::fontawesome("at")` [nicola.salvati@unipi.it](mailto:nicola.salvati@unipi.it) -->
+:::
+
+::::
+
+
+**Research fields**: <br> His research interests include small area estimation, robust regression, quantile and M-quantile regression, multilevel models, survey sampling, model-assisted and design-based inference, spatial statistics, poverty mapping, new technologies in survey methodology, causal inference. His work the in the last five years has been published by Journal of the Americal Statistical Association,  Journal of Royal Statistical Society Series A, B and C, Statistics in Medicine, Annals of Applied Statistics, Statistical Methods in Medical Research, Stochastic Environmental Research and Risk Assessment, International Statistical Review.
+

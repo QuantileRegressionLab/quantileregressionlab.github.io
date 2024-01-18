@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Latest Publications</title>
+
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+<style type="text/css">
+/* for pandoc --citeproc since 2.11 */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">HOME</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="research.html">
+    <span class="fa fa-book"></span>
+     
+    Research
+  </a>
+</li>
+<li>
+  <a href="people.html">
+    <span class="fa fa-person"></span>
+     
+    People
+  </a>
+</li>
+<li>
+  <a href="events.html">
+    <span class="fa fa-calendar"></span>
+     
+    Events
+  </a>
+</li>
+<li>
+  <a href="publications.html">
+    <span class="fa fa-bookmark"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="contacts.html">
+    <span class="fa fa-message"></span>
+     
+    Contact form
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Latest Publications</h1>
+
+</div>
+
+
+<!-- ## 2023 -->
+<!-- -  "Unified unconditional regression for multivariate quantiles, M-quantiles and expectiles" (with L.       Merlo, N. Salvati, N. Tzavidis) forthcoming  **Journal of the American Statistical Society** -->
+<!-- https://raw.githubusercontent.com/citation-style-language/styles/master/research-institute-for-nature-and-forest.csl -->
+<!-- csl: https://raw.githubusercontent.com/citation-style-language/styles/master/american-chemical-society.csl -->
+<!-- ## 2022 -->
+<div id="refs" class="references csl-bib-body hanging-indent"
+line-spacing="2">
+<div id="ref-foroni2024expectile" class="csl-entry">
+Foroni, B., Merlo, L., &amp; Petrella, L. (2024). Expectile hidden
+markov regression models for analyzing cryptocurrency returns.
+<em>Statistics and Computing</em>, <em>34</em>(2), 66.
+</div>
+<div id="ref-candila2023mixedfrequency" class="csl-entry">
+Candila, V., Gallo, G. M., &amp; Petrella, L. (2023). Mixed-frequency
+quantile regressions to forecast value-at-risk and expected shortfall.
+<em>Annals of Operations Research</em>, 1–34.
+</div>
+<div id="ref-foroni2023quantile" class="csl-entry">
+Foroni, B., Merlo, L., &amp; Petrella, L. (2023). Quantile and expectile
+copula-based hidden markov regression models for the analysis of the
+cryptocurrency market. <em>arXiv Preprint arXiv:2307.06400</em>.
+</div>
+<div id="ref-foroni2023using" class="csl-entry">
+Foroni, B., Merlo, L., &amp; Petrella, L. (2023). <em>Using expectile
+regression with latent variables for digital assets</em>. 1309–1314.
+</div>
+<div id="ref-laporta2023neural" class="csl-entry">
+Laporta, A. G., Levantesi, S., &amp; Petrella, L. (2023). Neural
+networks for quantile claim amount estimation: A quantile regression
+approach. <em>Annals of Actuarial Science</em>, 1–21.
+</div>
+<div id="ref-merlo2023estimating" class="csl-entry">
+Merlo, L., Dominici, F., Petrella, L., Salvati, N., &amp; Wu, X. (2023).
+Estimating causal quantile exposure response functions via matching.
+<em>arXiv Preprint arXiv:2308.01628</em>.
+</div>
+<div id="ref-merlo2023quantile" class="csl-entry">
+Merlo, L., Geraci, M., &amp; Petrella, L. (2023). Quantile mixed
+graphical models with an application to mass public shootings in the
+united states. <em>arXiv Preprint arXiv:2309.05084</em>.
+</div>
+<div id="ref-merlo2023twopart" class="csl-entry">
+Merlo, L., Maruotti, A., &amp; Petrella, L. (2023). Two-part quantile
+regression models for semi-continuous longitudinal data: A finite
+mixture approach. <em>Statistical Modelling</em>, <em>22</em>(6),
+485–508.
+</div>
+<div id="ref-merlo2023unified" class="csl-entry">
+Merlo, L., Petrella, L., Salvati, N., &amp; Tzavidis, N. (2023). Unified
+unconditional regression for multivariate quantiles, m-quantiles and
+expectiles. <em>Journal of the American Statistical Association</em>,
+1–26.
+</div>
+<div id="ref-ranalli2023mquantile" class="csl-entry">
+Ranalli, M. G., Salvati, N., Petrella, L., &amp; Pantalone, F. (2023).
+M-quantile regression shrinkage and selection via the lasso and elastic
+net to assess the effect of meteorology and traffic on air quality.
+<em>Biometrical Journal</em>, 2100355.
+</div>
+<div id="ref-andreani_quantile_regression" class="csl-entry">
+Andreani, M., Candila, V., &amp; Petrella, L. (2022). <em>Quantile
+regression forest for value-at-risk forecasting via mixed-frequency
+data</em>. 13–18.
+</div>
+<div id="ref-bignozzi2022interorder" class="csl-entry">
+Bignozzi, V., Merlo, L., &amp; Petrella, L. (2022). Inter-order
+relations between moments of a student distribution, with an application
+to -quantiles. <em>arXiv Preprint arXiv:2209.12855</em>.
+</div>
+<div id="ref-foroni_analyzing_correlation" class="csl-entry">
+Foroni, B., Merlo, L., &amp; Petrella, L. (2022). Analyzing the
+correlation structure of financial markets using a quantile graphical
+model. <em>Book of the Short Papers</em>, 852–857.
+</div>
+<div id="ref-foroni_graphical_models" class="csl-entry">
+Foroni, B., Merlo, L., &amp; Petrella, L. (2022). Graphical models for
+commodities: A quantile approach. <em>Methods and Applications in
+Fluorescence</em>, 253–259.
+</div>
+<div id="ref-merlo_modeling_mquantiles" class="csl-entry">
+Merlo, L., Petrella, L., &amp; Salvati, N. (2022). <em>Modeling
+unconditional m-quantiles in a regression framework</em>. 1692–1695.
+</div>
+<div id="ref-merlo_quantile_mixed" class="csl-entry">
+Merlo, L., Petrella, L., &amp; Tzavidis, N. (2022). Quantile mixed
+hidden markov models for multivariate longitudinal data: An application
+to children’s strengths and difficulties questionnaire scores.
+<em>Journal of the Royal Statistical Society Series C: Applied
+Statistics</em>, <em>71</em>.
+</div>
+<div id="ref-scarci_covid19" class="csl-entry">
+Scarci, M., Raveglia, F., Bortolotti, L., Benvenuti, M., Merlo, L.,
+Petrella, L., &amp;... (2022). COVID-19 after lung resection in northern
+italy. <em>Seminars in Thoracic and Cardiovascular Surgery</em>,
+<em>34</em>(2), 726–732.
+</div>
+<div id="ref-andreani_multivariate_analysis" class="csl-entry">
+Andreani, M., Candila, V., Morelli, G., &amp; Petrella, L. (2021).
+Multivariate analysis of energy commodities during the COVID-19
+pandemic: Evidence from a mixed-frequency approach. <em>Risks</em>,
+<em>9</em>(8), 144.
+</div>
+<div id="ref-candila_conditional_2021" class="csl-entry">
+Candila, V., &amp; Petrella, L. (2021). Conditional quantile estimation
+for linear ARCH models with MIDAS components. <em>Mathematical and
+Statistical Methods for Actuarial Sciences and Finance</em>.
+</div>
+<div id="ref-candila_hypotheses_2021" class="csl-entry">
+Candila, V., &amp; Petrella, L. (2021). Hypotheses testing in
+mixed–frequency volatility models: A bootstrap approach. <em>Book of
+Short Papers SIS 2021</em>, 1413–1418.
+</div>
+<div id="ref-foroni2021network" class="csl-entry">
+Foroni, B., Morelli, G., &amp; Petrella, L. (2021). The network of
+commodity risk. <em>Energy Systems</em>, 1–47.
+</div>
+<div id="ref-laporta_quantile_2021" class="csl-entry">
+Laporta, A. G., Levantesi, S., &amp; Petrella, L. (2021). Quantile
+regression neural network for quantile claim amount estimation.
+<em>Mathematical and Statistical Methods for Actuarial Sciences and
+Finance</em>.
+</div>
+<div id="ref-maruotti_hidden_2021" class="csl-entry">
+Maruotti, A., Petrella, L., &amp; Sposito, L. (2021). Hidden
+semi-markov-switching quantile regression for time series.
+<em>Computational Statistics &amp; Data Analysis</em>, <em>159</em>,
+107208.
+</div>
+<div id="ref-merlo_forecasting_var" class="csl-entry">
+Merlo, L., Petrella, L., &amp; Raponi, V. (2021). Forecasting VaR and ES
+using a joint quantile regression and its implications in portfolio
+allocation. <em>Journal of Banking &amp; Finance</em>, <em>133</em>,
+106248.
+</div>
+<div id="ref-merlo2021marginal" class="csl-entry">
+Merlo, L., Petrella, L., Salvati, N., &amp; Tzavidis, N. (2021).
+Marginal m-quantile regression for multivariate dependent data.
+<em>Computational Statistics &amp; Data Analysis</em>, <em>173</em>,
+107500.
+</div>
+<div id="ref-merlo_directional_2021" class="csl-entry">
+Merlo, L., Petrella, L., &amp; Tzavidis, N. (2021). Directional
+m-quantile regression for multivariate dependent outcomes. <em>Book of
+Short Papers SIS 2021</em>, 164–169.
+</div>
+<div id="ref-sciacchitano_ntis" class="csl-entry">
+Sciacchitano, S., Capalbo, C., Napoli, C., Negro, A., De Biase, L.,
+Marcolongo, A., &amp;... (2021). Nonthyroidal illness syndrome (NTIS) in
+severe COVID-19 patients: Role of T3 on the na/k pump gene expression
+and on hydroelectrolytic equilibrium. <em>Journal of Translational
+Medicine</em>, <em>19</em>(1), 1–18.
+</div>
+<div id="ref-bignozzi_large_2020" class="csl-entry">
+Bignozzi, V., Macci, C., &amp; Petrella, L. (2020). Large deviations for
+method-of-quantiles estimators of one-dimensional parameters.
+<em>Communications in Statistics-Theory and Methods</em>,
+<em>49</em>(5), 1132–1157.
+</div>
+<div id="ref-candila_mixed-frequency_2020" class="csl-entry">
+Candila, V., Gallo, G. M., &amp; Petrella, L. (2020).
+<em>Mixed-frequency quantile regression with realized volatility to
+forecast value-at-risk</em>.
+</div>
+<div id="ref-candila_using_2020" class="csl-entry">
+Candila, V., Gallo, G. M., &amp; Petrella, L. (2020). <em>Using
+mixed-frequency and realized measures in quantile regression</em>.
+</div>
+<div id="ref-candila_adding_2020" class="csl-entry">
+Candila, V., &amp; Petrella, L. (2020). Adding MIDAS terms to linear
+ARCH models in a quantile regression framework. <em>Book of Short Papers
+SIS 2020</em>, 910–915.
+</div>
+<div id="ref-Fabrizi2020" class="csl-entry">
+Fabrizi, E., Salvati, N., &amp; Trevisano, C. (2020). Small area
+estimation based on flexible quantile regression. <em>Computational
+Statistics and Data Analysis</em>.
+</div>
+<div id="ref-foroni_glasso_2020" class="csl-entry">
+Foroni, B., Mazza, S., Morelli, G., &amp; Petrella, L. (2020). GLASSO
+estimation of commodity risks. <em>Book of Short Papers SIS 2020</em>,
+957–962.
+</div>
+<div id="ref-Frumento2020" class="csl-entry">
+Frumento, P., &amp; Salvati, N. (2020). Parametric modelling of
+m-quantile regression coefficient functions with application to small
+area estimation. <em>Journal of Royal Statistical Society Series A</em>,
+<em>183</em>, 229–250.
+</div>
+<div id="ref-marinozzi_3d_2020" class="csl-entry">
+Marinozzi, F., Carleo, F., Novelli, S., Di Martino, M., Cardillo, G.,
+Petrella, L., &amp;... (2020). 3D reconstruction model of an
+extra-abdominal desmoid tumor: A case study. <em>Frontiers in
+Bioengineering and Biotechnology</em>, <em>8</em>, 518.
+</div>
+<div id="ref-maruotti_two-part_2020" class="csl-entry">
+Maruotti, A., Merlo, L., &amp; Petrella, L. (2020). <em>A two-part
+finite mixture quantile regression model for semi-continuous
+longitudinal data</em>.
+</div>
+<div id="ref-merlo_sectoral_2020" class="csl-entry">
+Merlo, L., Petrella, L., &amp; Raponi, V. (2020). Sectoral decomposition
+of CO2 world emissions: A joint quantile regression approach.
+<em>International Review of Environmental and Resource Economics</em>,
+<em>14</em>(2-3), 197–239.
+</div>
+<div id="ref-merlo_multivariate_2020" class="csl-entry">
+Merlo, L., Petrella, L., &amp; Tzavidis, N. (2020). Multivariate mixed
+hidden markov model for joint estimation of multiple quantiles. <em>Book
+of Short Papers SIS 2020</em>.
+</div>
+<div id="ref-SchirripaSpagnolo2020" class="csl-entry">
+Schirripa-Spagnolo, F., Salvati, N., &amp; D’Agostino, A. (2020). The
+use of sampling weights in m-quantile random-effects regression: An
+application to programme for international student assessment
+mathematics scores. <em>Journal of Royal Statistical Society Series
+C</em>, <em>69</em>, 991–1012.
+</div>
+<div id="ref-Borgoni2019" class="csl-entry">
+Borgoni, R., Carcagnı̀, A., Salvati, N., &amp; Schmid, T. (2019).
+Analysing radon accumulation in the home by flexible m-quantile mixed
+effect regression. <em>Stochastic Environmental Research and Risk
+Assessment</em>, <em>33</em>, 375–394.
+</div>
+<div id="ref-Chambers2019" class="csl-entry">
+Chambers, R., Salvati, N., Fabrizi, E., &amp; Silva, A. D. da. (2019).
+Domain estimation under informative linkage. <em>Statistical Theory and
+Related Fields</em>. <a
+href="https://doi.org/10.1080/24754269.2019.1653158">https://doi.org/10.1080/24754269.2019.1653158</a>
+</div>
+<div id="ref-Chandra2019" class="csl-entry">
+Chandra, H., Salvati, N., &amp; Chambers, R. (2019). Small area
+estimation of survey weighted counts under aggregated level spatial
+models. <em>Survey Methodology</em>, <em>45</em>, 31–59.
+</div>
+<div id="ref-DelSarto2019" class="csl-entry">
+Del Sarto, S., Marino, M. F., Ranalli, M. G., &amp; Salvati, N. (2019).
+Using finite mixtures of m-quantile regression models to handle
+unobserved heterogeneity in assessing the effect of meteorology and
+traffic on air quality. <em>Stochastic Environmental Research and Risk
+Assessment</em>, <em>33</em>, 1345–1359.
+</div>
+<div id="ref-Marino2019" class="csl-entry">
+Marino, M. F., Ranalli, M. G., Salvati, N., &amp; Alfò, M. (2019).
+Semi-parametric empirical best prediction for small area estimation of
+unemployment indicators. <em>Annals of Applied Statistics</em>,
+<em>13</em>, 1166–1197.
+</div>
+<div id="ref-merlo_joint_2019" class="csl-entry">
+Merlo, L., Petrella, L., &amp; Raponi, V. (2019). Joint VaR and ES
+forecasting in a multiple quantile regression framework. <em>Smart
+Statistics for Smart Applications: Book of Short Papers SIS 2019</em>,
+1177 ...
+</div>
+<div id="ref-petrella_cross-country_2019" class="csl-entry">
+Petrella, L., Laporta, A. G., &amp; Merlo, L. (2019). Cross-country
+assessment of systemic risk in the european stock market: Evidence from
+a CoVaR analysis. <em>Social Indicators Research</em>,
+<em>146</em>(1-2), 169–186.
+</div>
+<div id="ref-petrella_joint_2019" class="csl-entry">
+Petrella, L., &amp; Raponi, V. (2019). Joint estimation of conditional
+quantiles in multivariate linear regression models with an application
+to financial distress. <em>Journal of Multivariate Analysis</em>,
+<em>173</em>, 70–84.
+</div>
+<div id="ref-poggioni_estimation_2019" class="csl-entry">
+Poggioni, F., Mauro, B., &amp; Petrella, L. (2019). Estimation of
+dynamic quantile models via the MM algorithm. <em>Smart Statistics for
+Smart Applications</em>, 1033–1038.
+</div>
+<div id="ref-Sobotka2019" class="csl-entry">
+Sobotka, F. O., Kneib, T., Salvati, N., &amp; Ranalli, M. G. (2019).
+Adaptive semiparametric m-quantile regression. <em>Econometrics and
+Statistics</em>, <em>11</em>, 116–129.
+</div>
+<div id="ref-Baldermann2018" class="csl-entry">
+Baldermann, C., Salvati, N., &amp; Schmid, T. (2018). Robust small area
+estimation under spatial non-stationarity. <em>International Statistical
+Review</em>. <a
+href="https://doi.org/10.1111/insr.12245">https://doi.org/10.1111/insr.12245</a>
+</div>
+<div id="ref-Bianchi2018" class="csl-entry">
+Bianchi, A., Fabrizi, E., Salvati, N., &amp; Tzavidis, N. (2018).
+Estimation and testing in m-quantile regression with applications to
+small area estimation. <em>International Statistical Review</em>. <a
+href="https://doi.org/10.1111/insr.12267">https://doi.org/10.1111/insr.12267</a>
+</div>
+<div id="ref-bignozzi_large_2018" class="csl-entry">
+Bignozzi, V., Macci, C., &amp; Petrella, L. (2018). Large deviations for
+risk measures in finite mixture models. <em>Insurance: Mathematics and
+Economics</em>, <em>80</em>, 84–92.
+</div>
+<div id="ref-Borgoni2018" class="csl-entry">
+Borgoni, R., Del Bianco, P., Salvati, N., Schmid, T., &amp; Tzavidis, N.
+(2018). Modelling the distribution of health-related quality of life of
+advanced melanoma patients in a longitudinal multi-centre clinical trial
+using m-quantile random effects regression. <em>Statistical Methods in
+Medical Research</em>. <a
+href="https://doi.org/10.1177/0962280216636651">https://doi.org/10.1177/0962280216636651</a>
+</div>
+<div id="ref-Chandra2018" class="csl-entry">
+Chandra, H., Salvati, N., &amp; Chambers, R. (2018). Small area
+prediction under nonparametric generalized linear mixed model.
+<em>Journal of Computational Statistics and Data Analysis</em>,
+<em>126</em>, 19–38.
+</div>
+<div id="ref-costantino_spare_2018" class="csl-entry">
+Costantino, F., Di Gravio, G., Patriarca, R., &amp; Petrella, L. (2018).
+Spare parts management for irregular demand items. <em>Omega</em>,
+<em>81</em>, 57–66.
+</div>
+<div id="ref-laporta_selection_2018" class="csl-entry">
+Laporta, A. G., Merlo, L., &amp; Petrella, L. (2018). Selection of value
+at risk models for energy commodities. <em>Energy Economics</em>,
+<em>74</em>, 628–643.
+</div>
+<div id="ref-Marchetti2018" class="csl-entry">
+Marchetti, S., Berkesewicz, M., Salvati, N., Szymkowiak, M., &amp;
+Wawrowski, L. (2018). The use of a three-level m-quantile model to map
+poverty at local administrative unit 1 in poland. <em>Journal of Royal
+Statistical Society Series A</em>. <a
+href="https://doi.org/10.1111/rssa.12348">https://doi.org/10.1111/rssa.12348</a>
+</div>
+<div id="ref-merlo2018quantile" class="csl-entry">
+Merlo, L., Maruotti, A., Petrella, L., &amp; Punzo, A. (2018). Quantile
+hidden semi-markov models for multivariate time series. <em>Statistics
+and Computing</em>, <em>32</em>(4), 61.
+</div>
+<div id="ref-petrella_multiple_2018" class="csl-entry">
+Petrella, L., &amp; Raponi, V. (2018). Multiple quantile regression for
+risk assessment. <em>50th Scientific Meeting of the Italian Statistical
+Society</em>.
+</div>
+<div id="ref-Alfo2017" class="csl-entry">
+Alfò, M., Salvati, N., &amp; Ranalli, M. G. (2017). Finite mixtures of
+quantile and m-quantile regression models. <em>Statistics &amp;
+Computing</em>, <em>27</em>, 547–570.
+</div>
+<div id="ref-Chandra2017Estimation" class="csl-entry">
+Chandra, H., &amp; Salvati, N. (2017). Small area estimation of
+proportions under a spatial dependent aggregated level spatial models.
+<em>Communications In Statistics. Theory And Methods</em>. <a
+href="https://doi.org/10.1080/03610926.2017.1317806">https://doi.org/10.1080/03610926.2017.1317806</a>
+</div>
+<div id="ref-Chandra2017" class="csl-entry">
+Chandra, H., Salvati, N., &amp; Chambers, R. (2017). Small area
+prediction of counts under a non-stationary spatial model. <em>Spatial
+Statistics</em>, <em>20</em>, 30–56.
+</div>
+<div id="ref-Marchetti2017" class="csl-entry">
+Marchetti, S., Giusti, C., Salvati, N., &amp; Pratesi, M. (2017). Small
+area estimation based on m-quantile models in presence of outliers in
+auxiliary variables. <em>Statistical Methods &amp; Applications</em>. <a
+href="https://doi.org/10.1007/s10260-017-0380-4">https://doi.org/10.1007/s10260-017-0380-4</a>
+</div>
+<div id="ref-mauro_bayesian_2017" class="csl-entry">
+Mauro, B., Marco, B., &amp; Petrella, L. (2017). Bayesian quantile
+regression using the skew exponential power distribution. <em>SIS 2017.
+Statistics and Data Science: New Challenges, New Generations ...</em>
+</div>
+<div id="ref-mollica_bayesian_2017" class="csl-entry">
+Mollica, C., &amp; Petrella, L. (2017). Bayesian binary quantile
+regression for the analysis of bachelor-to-master transition.
+<em>Journal of Applied Statistics</em>, <em>44</em>(15), 2791–2812.
+</div>
+<div id="ref-paola_estimation_2017" class="csl-entry">
+Paola, S., Mauro, B., &amp; Petrella, L. (2017). Estimation and
+inference of skew-stable distributions using the multivariate method of
+simulated quantiles. <em>SIS 2017. Statistics and Data Science: New
+Challenges, New Generations ...</em>
+</div>
+<div id="ref-SchirripaSpagnolo2017" class="csl-entry">
+Schirripa-Spagnolo, F., D’Agostino, A., &amp; Salvati, N. (2017).
+Measuring differences in economic standard of living between immigrant
+communities in italy. <em>Quality And Quantity</em>. <a
+href="https://doi.org/10.1007/s11135-017-0542-3">https://doi.org/10.1007/s11135-017-0542-3</a>
+</div>
+<div id="ref-Schmid2017" class="csl-entry">
+Schmid, T., Bruckschen, F., Salvati, N., &amp; Zbiranski. (2017).
+Constructing socio-demographic indicators for NSI using mobile data.
+<em>Journal of Royal Statistical Society Series A</em>. <a
+href="https://doi.org/10.1111/rssa.12305">https://doi.org/10.1111/rssa.12305</a>
+</div>
+<div id="ref-Chambers2016" class="csl-entry">
+Chambers, R., Salvati, N., &amp; Tzavidis, N. (2016). Semiparametric
+small area estimation for binary outcomes with application to
+unemployment estimation for local authorities in the UK. <em>Journal of
+Royal Statistical Society Series A</em>, <em>179</em>, 453–479.
+</div>
+<div id="ref-Tzavidis2016" class="csl-entry">
+Tzavidis, N., Salvati, N., Schmid, T., Flouri, E., &amp; Midouhas, E.
+(2016). Longitudinal analysis of the strengths and difficulties
+questionnaire scores of the millennium cohort study children in england
+using m-quantile random effects regression. <em>Journal of Royal
+Statistical Society Series A</em>, <em>179</em>, 427–452.
+</div>
+<div id="ref-Bianchi2015" class="csl-entry">
+Bianchi, A., &amp; Salvati, N. (2015). Asymptotic properties and
+variance estimators of the m-quantile regression coefficients
+estimators. <em>Communications in Statistics - Theory and Methods</em>,
+<em>44</em>, 2416.
+</div>
+<div id="ref-Bianchi2014" class="csl-entry">
+Bianchi, A., &amp; Salvati, N. (2014). Asymptotic properties and
+variance estimators of the m-quantile regression coefficients
+estimators. <em>Communications in Statistics - Theory and Methods</em>.
+<a
+href="https://doi.org/1080/03610926.2013.791375">https://doi.org/1080/03610926.2013.791375</a>
+</div>
+<div id="ref-Chambers2014" class="csl-entry">
+Chambers, R., Dreassi, E., &amp; Salvati, N. (2014). Disease mapping via
+negative binomial regression m-quantiles. <em>Statistics in
+Medicine</em>, <em>33</em>, 4805–4824.
+</div>
+<div id="ref-Dreassi2014" class="csl-entry">
+Dreassi, E., Ranalli, M. G., &amp; Salvati, N. (2014). Semiparametric
+m-quantile regression for count data. <em>Statistical Methods in Medical
+Research</em>, <em>23</em>, 591–610.
+</div>
+<div id="ref-Giusti2014" class="csl-entry">
+Giusti, C., Tzavidis, N., Pratesi, M., &amp; Salvati, N. (2014).
+Resistance to outliers of m-quantile and robust random effects small
+area models. <em>Communications in Statistics - Simulation and
+Computation</em>, <em>43</em>, 549–568.
+</div>
+<div id="ref-chandra2012a" class="csl-entry">
+Chandra, H., Salvati, N., Chambers, R., &amp; Tzavidis, N. (2012). Small
+area estimation under spatial nonstationarity. <em>Journal of
+Computational Statistics and Data Analysis</em>, <em>56</em>, 2875–2888.
+</div>
+<div id="ref-fabrizi2012" class="csl-entry">
+Fabrizi, E., Salvati, N., &amp; Pratesi, M. (2012). Constrained small
+area estimators based on m-quantile methods. <em>Journal of Official
+Statistics</em>, <em>28</em>, 1–15.
+</div>
+<div id="ref-giusti2012" class="csl-entry">
+Giusti, C., Marchetti, S., Pratesi, M., &amp; Salvati, N. (2012). Robust
+small area estimation and oversampling in the estimation of poverty
+indicators. <em>Survey Research Methods</em>, <em>3</em>, 155–163.
+</div>
+<div id="ref-salvati2012" class="csl-entry">
+Salvati, N., Tzavidis, Pratesi, M., &amp; Chambers, R. (2012). Small
+area estimation via m-quantile geographically weighted regression.
+<em>TEST</em>, <em>21</em>, 1–28. <a
+href="https://doi.org/10.1007/s11749-010-0231-1">https://doi.org/10.1007/s11749-010-0231-1</a>
+</div>
+<div id="ref-tzavidis2012" class="csl-entry">
+Tzavidis, N., Salvati, N., Chambers, R., &amp; Chandra, H. (2012). Small
+area estimation in practice: An application to agricultural business
+survey data. <em>Journal of the Indian Society of Agricultural
+Statistics</em>, <em>66</em>, 213–238.
+</div>
+</div>
+<!-- ## 2021 -->
+<!-- <br> -->
+<p><br></p>
+<p>Back to top <a
+href="#"><svg aria-hidden="true" role="img" viewBox="0 0 384 512" style="height:1em;width:0.75em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:steelblue;overflow:visible;position:relative;"><path d="M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"/></svg></a></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
