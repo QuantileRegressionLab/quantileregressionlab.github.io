@@ -8,9 +8,10 @@ navbar:
     - text: "People"
       href: people.html
       icon: fa-person
-    - text: "Network"
-      href: network.html
-      icon: fa-globe
+      menu:
+      - text: "Network"
+        href: network.html 
+        icon: fa-globe
     - text: "Events"
       href: events.html
       icon: fa-calendar
