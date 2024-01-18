@@ -32,14 +32,14 @@ h1, h2, h3 {
 :::::::::::::: {class='row'}
 ::: {class='col-sm-4'}
 
-```{r img-with-knitr, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://https://quantileregressionlab.github.io/petrella.html)"}
+```{r img-with-knitr, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://quantileregressionlab.github.io/petrella.html)"}
 knitr::include_graphics("images/petrella.jpeg")
 ``` 
 
 :::
 ::: {class='col-sm-4'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Nicola Salvati](https://https://quantileregressionlab.github.io/salvati.html)"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Nicola Salvati](https://quantileregressionlab.github.io/salvati.html)"}
 knitr::include_graphics("images/salvati2.jpeg")
 ``` 
 
