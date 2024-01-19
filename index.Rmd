@@ -30,7 +30,7 @@ The methodologies developed by our group have been successfully applied, among o
 -   Climate change
 -   Poverty mapping
 
-These results have been published in several scientific journals. For a complete list see the [Publication](https://quantileregressionlab.github.io/publications.html) page .
+These results have been published in several scientific journals. Click here to see a list of [selected publications](sel_pubs.html).
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ Put in your css file or directly in rmarkdown--->
 
 **Events**
 
--   Click here to see [past and upcoming events](https://quantileregressionlab.github.io/events.html) <br> <br>
+-   Click here to see [past and upcoming events](events.html) <br> <br>
 :::
 
 <br>
