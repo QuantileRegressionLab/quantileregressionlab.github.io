@@ -11,10 +11,11 @@ title: "Maria Saiz"
 
 ```{css, echo=FALSE}
 .myimg {
-  height: 100px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
   border-radius: 50%;
   object-fit: cover;
+  border: thick double black;
 }
 ```
 <br>
