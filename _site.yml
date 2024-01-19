@@ -1,6 +1,6 @@
 name: "Quantile Regression Lab"
 navbar:
-  title: "HOME"
+  title: "Home"
   left:
     - text: "Research"
       href: research.html
@@ -8,7 +8,7 @@ navbar:
     - text: "People"
       icon: fa-person
       menu:
-      - text: "Meat the Team"
+      - text: "Meet the Team"
         href: people.html
         icon: fa-users
       - text: "Network"
@@ -18,7 +18,7 @@ navbar:
       href: events.html
       icon: fa-calendar
     - text: "Publications"
-      href: publications.html
+      href: sel_pubs.html
       icon: fa-bookmark
     - text: "Contact form"
       href: contacts.html

@@ -1,0 +1,17 @@
+---
+title: "Selected Publications"
+output:
+  html_document:
+    fig_width: 1
+    includes:
+      before_body: logo.html
+---
+<br>
+<br>
+<br>
+<br>
+
+```{r, echo=FALSE}
+library(htmltools)
+htmltools::includeHTML("publications_cards.html")
+```

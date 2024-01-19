@@ -6,12 +6,8 @@ output:
     highlight: monochrome
 ---
 
-
-
-
-<!-- # ```{r} -->
-<!-- # Text here -->
-<!-- # ``` -->
-
-
+```{r, echo=FALSE}
+library(htmltools)
+htmltools::includeHTML("contact_form_embed.html")
+```
 

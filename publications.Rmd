@@ -1,5 +1,5 @@
 ---
-title: "Latest Publications"
+title: "Publications"
 link-citations : true
 bibliography: bib_qrlab.bib
 csl: apa-cv.csl

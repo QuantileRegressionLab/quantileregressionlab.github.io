@@ -1,8 +1,36 @@
 ---
 title: "Network"
+text-align: center
 output: 
 html_document:
   includes:
     in_header: header.html
 ---
+
+```{css, echo=FALSE}
+#header {
+    display: none;
+}
+```
+
+
+```{css, echo=FALSE}
+.center {
+  text-align: center;
+}
+```
+
+# Network
+
+
+
+
+
+# Visiting Fellows
+
+* [Francesca Dominici](https://www.hsph.harvard.edu/profile/francesca-dominici/), Professor of Biostatistics, Population, and Data Science, Harvard University, USA
+
+* [Nikos Tzavidis](https://www.southampton.ac.uk/people/5wzwrv/professor-nikos-tzavidis), Professor of Statistics, University of Southampton, UK
+
+* [Ghislaine Gayraud](https://lmac.utc.fr/auteur/ghislaine-gayraud), Professor of Statistics, Université de Technologie de Compiègne, France
 
