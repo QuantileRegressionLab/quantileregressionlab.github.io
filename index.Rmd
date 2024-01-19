@@ -3,8 +3,7 @@ title: "Quantile Regression Lab"
 output:
   html_document:
     fig_width: 1
-    include:
-      in_header: header.html
+    includes:
       before_body: logo.html
 ---
 
