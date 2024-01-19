@@ -11,13 +11,15 @@ output:
 
 ### What we do
 
-<br> The **Quantile Regression Lab**
+<br> The **Quantile Regression Lab** is a dynamic and innovative group that brings together research scientists, post-doctoral fellows, and PhD candidates studying data science methodologies and applications of quantile methods in multiple contexts. Our team comprises individuals who are not only passionate about data analysis but have also made significant contributions to numerous practically relevant fields. The group actively collaborates with national and international institutions, working closely with practitioners and leading experts from around the world. 
 
-<br> The **Quantile Regression Lab** is a dynamic and innovative team that brings together scholars from various universities across Italy and Europe. Our group is dedicated to advancing Quantile Regression modeling in a wide range of fields, including:
+At its core, the group exhibits a diverse range of interests which include multivariate quantiles, machine learning, graphical models, survey sampling, mixed-effects models and small area estimation. Beyond theoretical advancements, we are engaged in developing practical tools to facilitate the implementation of quantile regression in real-world scenarios and across domains such as finance, economics, climate change and poverty mapping.
+
+<!-- team that brings together scholars from various universities across Italy and Europe. The group is dedicated to advancing quantile regression modeling in a broad range of areas, including:
 
 -   Multivariate quantiles
 -   Machine learning
--   Quantile graphical models
+-   Graphical models
 -   Survey sampling
 -   Mixed-effects models
 -   Small area estimation
@@ -31,6 +33,7 @@ The methodologies developed by our group have been successfully applied, among o
 -   Poverty mapping
 
 These results have been published in several scientific journals. For a complete list see the [Publication](https://quantileregressionlab.github.io/publications.html) page .
+-->
 
 ------------------------------------------------------------------------
 
