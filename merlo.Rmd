@@ -33,7 +33,7 @@ knitr::include_graphics("images/merlo.jpeg")
 ::: {.column width="75%"}
 # Luca Merlo
 
-**Researcher in Statistics at the European University of Rome (Italy), Ph.D. in Methodological Statistics.**
+**Researchers in Statistics at the European University of Rome (Italy), Ph.D. in Methodological Statistics.**
 <br>
 `r icons::fontawesome("telegram-plane")` [Website page](https://www.universitaeuropeadiroma.it/transizione-digitale/docenti/luca-merlo/) 
 :::
