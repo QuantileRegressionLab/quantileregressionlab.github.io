@@ -23,6 +23,13 @@ navbar:
     - text: "Contact form"
       href: contacts.html
       icon: fa-message
+  right:
+    - text: ""
+      href: https://github.com/QuantileRegressionLab
+      icon: fa-github
+    - text: ""
+      href: mailto:quantileregressionlab@gmail.com
+      icon: fa-envelope
 output_dir: "."
 output:
   html_document:
