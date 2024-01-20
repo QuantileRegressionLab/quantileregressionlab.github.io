@@ -6,6 +6,12 @@ output:
     highlight: monochrome
 ---
 
+------------------------------------------------------------------------
+
+<br> If you have any questions about our work or ongoing research, please contact us at qrlab@gmail.com or use the form below.
+
+<br>
+
 ```{r, echo=FALSE}
 library(htmltools)
 htmltools::includeHTML("contact_form_embed.html")

@@ -9,6 +9,7 @@ output:
 
 ---
 
+------------------------------------------------------------------------
 
 The research of our group is focused on developing methodologies concerning the following key areas:
 <br>
