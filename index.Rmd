@@ -15,7 +15,7 @@ output:
 
 At its core, the group exhibits a diverse range of [research interests](https://quantileregressionlab.github.io/research.html) which include multivariate quantiles, machine learning, graphical models, survey sampling, mixed-effects models and small area estimation. We are engaged in developing practical tools to facilitate the implementation of quantile regression in real-world scenarios and across domains such as finance, economics, climate change and poverty mapping.
 
-To know more about our work please check out our [publications](https://quantileregressionlab.github.io/publications.html).
+To know more about our work please check out our [publications](https://quantileregressionlab.github.io/sel_pubs.html).
 
 <!-- team that brings together scholars from various universities across Italy and Europe. The group is dedicated to advancing quantile regression modeling in a broad range of areas, including:
 

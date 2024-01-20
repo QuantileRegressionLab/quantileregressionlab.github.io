@@ -1,5 +1,5 @@
 ---
-title: "Contact form"
+title: "Contact Us"
 output:
   html_document:
     theme: cosmo
