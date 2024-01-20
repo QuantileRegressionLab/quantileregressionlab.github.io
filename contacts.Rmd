@@ -16,4 +16,3 @@ output:
 library(htmltools)
 htmltools::includeHTML("contact_form_embed.html")
 ```
-
