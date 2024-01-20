@@ -4,6 +4,7 @@ classoption: twocolumn
 text-align: center
 output: 
   html_document:
+    fig_width: 1
     includes:
       in_header: header.html
 ---

@@ -2,6 +2,7 @@
 title: "Contact Us"
 output:
   html_document:
+    fig_width: 1
     theme: cosmo
     highlight: monochrome
 ---
