@@ -23,7 +23,7 @@ output: html_document
 
 ::: {.column width="20%"}
 ```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
-knitr::include_graphics("images/merlo.jpeg")
+knitr::include_graphics("images/merlo_crop.jpeg")
 ``` 
 :::
 
@@ -35,6 +35,8 @@ knitr::include_graphics("images/merlo.jpeg")
 # Luca Merlo
 
 **Researcher in Statistics at the European University of Rome (Italy), Ph.D. in Methodological Statistics.**
+<br>
+`r icons::fontawesome("telegram-plane")` [Personal website page](https://luca-merlo.github.io/) 
 <br>
 `r icons::fontawesome("telegram-plane")` [Website page](https://www.universitaeuropeadiroma.it/transizione-digitale/docenti/luca-merlo/) 
 :::
