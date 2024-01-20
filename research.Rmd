@@ -11,6 +11,49 @@ output:
 
 ------------------------------------------------------------------------
 
+The group traces its roots back nearly two decades ago when the quantile regression gained prominence as a powerful tool for analyzing data in various disciplines. We are deeply invested in advancing the theoretical foundations of quantile regression, continually exploring innovative estimation techniques and refining existing methodologies to enhance the precision and robustness of results. Beyond theoretical advancements, the group is actively engaged in developing practical tools and software to facilitate the implementation of quantile regression in real-world scenarios. Furthermore, the researchers within the group are keenly interested in expanding the method's applications across domains such as finance, healthcare, social sciences, and environmental studies. This multidisciplinary approach underscores the group's commitment to exploring new avenues where quantile regression can offer unique insights into complex data structures, contributing to a more comprehensive understanding of statistical relationships and enhancing the method's impact across diverse fields of research.
+
+As interest in quantile regression grew, the group now comprises a dynamic and interdisciplinary assembly of faculty, researchers, Post-docs and PhD students from different institutions. The group often collaborates with experts from various domains, fostering a collaborative environment that promotes cross-disciplinary insights.
+
+
+Over the years, the group has contributed significantly to the development of robust estimation techniques, diagnostic tools, and novel applications in diverse fields such as economics, finance, epidemiology, and environmental science. The ongoing evolution of quantile regression continues to be shaped by the collective efforts of researchers within this dynamic and influential research community.
+
+<br>
+
+<style>
+.column-left{
+  float: left;
+  width: 40%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 40%;
+  text-align: left;
+}
+</style>
+
+## **Main areas of research**
+
+<div class="column-left">
+**Multivariate Quantiles**   
+**Machine Learning**   
+**Quantile Graphical Models**   
+**Mixed Frequency Data**   
+**Hidden Markov Models**   
+**Finite Mixture Models**   
+**Mixed-Effects Models**
+</div>
+<div class="column-center">
+**Longitudinal Data**   
+**Finance**   
+**Economics**   
+**Small Area Estimation**   
+**Poverty Mapping**
+</div>
+
+<!-- 
+<br>
 The research of our group is focused on developing methodologies concerning the following key areas:
 <br>
 
@@ -40,3 +83,5 @@ Our work has found application in:<br>
 - **Finance**: The methodologies developed in our group have been applied to study financial risk measures of financial index and energy commodities.
 
 - **Longitudinal data settings**: [You can provide more information about the applications in longitudinal data settings here.]
+
+-->
