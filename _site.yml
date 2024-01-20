@@ -20,7 +20,7 @@ navbar:
     - text: "Publications"
       href: sel_pubs.html
       icon: fa-bookmark
-    - text: "Contact form"
+    - text: "Contact Us"
       href: contacts.html
       icon: fa-message
   right:
