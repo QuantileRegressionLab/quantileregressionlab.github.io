@@ -9,7 +9,7 @@ output:
 
 ------------------------------------------------------------------------
 
-<br> If you have any questions about our work or ongoing research, please contact us at quantileregressionlab@gmail.com or use the form below.
+If you have any questions about our work or ongoing research, please contact us at quantileregressionlab@gmail.com or use the form below.
 
 <br>
 
