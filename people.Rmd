@@ -36,7 +36,7 @@ h2, h3{
 
 ### Director
 <center>
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://quantileregressionlab.github.io/petrella.html) <br> Professor of Statistics <br> La Sapienza University"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://quantileregressionlab.github.io/petrella.html) <br> Professor of Statistics <br> Sapienza University of Rome"}
 knitr::include_graphics("images/petrella.jpeg")
 ``` 
 </center>
@@ -82,7 +82,7 @@ knitr::include_graphics("images/merlo_crop.jpeg")
 ### Post-docs
 
 <center>
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html) <br> Post-doc <br> La Sapienza University"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html) <br> Sapienza University of Rome"}
 knitr::include_graphics("images/foroni.jpg")
 ``` 
 </center>
@@ -96,14 +96,14 @@ knitr::include_graphics("images/foroni.jpg")
 :::::::::::::: {class='row'}
 ::: {class='col-sm-6'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://quantileregressionlab.github.io/andreani.html) <br> PhD Student <br> Scuola Normale Superiore of Pisa"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://quantileregressionlab.github.io/andreani.html) <br> Scuola Normale Superiore of Pisa"}
 knitr::include_graphics("images/andreani.jpeg")
 ``` 
 :::
 
 ::: {class='col-sm-6'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://quantileregressionlab.github.io/saiz.html) <br> PhD Student <br> La Sapienza University"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://quantileregressionlab.github.io/saiz.html) <br> Sapienza University of Rome"}
 knitr::include_graphics("images/saiz.jpeg")
 ``` 
 

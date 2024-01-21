@@ -7,9 +7,11 @@ output:
       before_body: logo.html
 ---
 
+------------------------------------------------------------------------
+
   **Upcoming events**
   
-
+<br>
   
   **Past events**
 
