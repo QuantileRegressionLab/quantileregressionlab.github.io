@@ -22,9 +22,21 @@ html_document:
 
 # Collaborators
 
+* [Enrico Fabrizi](https://docenti.unicatt.it/ppd2/it/docenti/25341/enrico-fabrizi/profilo), Professor of Business and Economics Statistics, Università Cattolica del Sacro Cuore, Italy
 
+* [Paolo Frumento](https://www.sp.unipi.it/it/dipartimento/persone/?p=paolo-frumento), Professor of Statistics, University of Pisa, Italy
 
+* [Marco Geraci](https://web.uniroma1.it/memotef/users/geraci-marco), Professor of Statistics, University Sapienza of Rome, Italy
 
+* [Marc Hallin](https://scholar.google.be/citations?hl=en&user=5barf50AAAAJ&view_op=list_works&sortby=pubdate), Professor of Statistics, Université libre de Bruxelles, Belgium
+
+* [Antonello Maruotti](https://lumsa.it/it/docenti/antonello-maruotti), Professor of Statistics, LUMSA University Southampton, Italy
+
+* [Antonio Punzo](https://www.dei.unict.it/docenti/antonio.punzo), Professor of Statistics, Catania University, Italy
+
+* [Gilles Stupfler](https://math.univ-angers.fr/~stupfler/), Professor of Statistics, University of Angers, France
+
+<br>
 
 # Visiting Fellows
 
