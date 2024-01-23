@@ -24,7 +24,7 @@ title: "Lea Petrella"
 
 ::: {.column width="20%"}
 ```{r img-with-knitr, echo=FALSE, fig.align='left', out.extra='class="myimg"'}
-knitr::include_graphics("images/petrella.jpeg")
+knitr::include_graphics("images/petrella2.jpeg")
 ``` 
 :::
 
