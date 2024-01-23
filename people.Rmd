@@ -37,7 +37,7 @@ h2, h3{
 ### Director
 <center>
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://quantileregressionlab.github.io/petrella.html) <br> Professor of Statistics <br> Sapienza University of Rome"}
-knitr::include_graphics("images/petrella.jpeg")
+knitr::include_graphics("images/petrella2.jpeg")
 ``` 
 </center>
 
