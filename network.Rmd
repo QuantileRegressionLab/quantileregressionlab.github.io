@@ -34,6 +34,8 @@ html_document:
 
 * [Antonio Punzo](https://www.dei.unict.it/docenti/antonio.punzo), Professor of Statistics, Catania University, Italy
 
+* [Timo Schmid](https://www.uni-bamberg.de/stat-oek/team/prof-dr-timo-schmid/), Professor of Statistics, Otto Friedrich University Bamberg, Germany
+
 * [Gilles Stupfler](https://math.univ-angers.fr/~stupfler/), Professor of Statistics, University of Angers, France
 
 <br>
