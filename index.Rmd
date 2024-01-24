@@ -17,7 +17,7 @@ The group, established by 4 founding members, has matured into a multidimensiona
 
 At its core, the group exhibits a diverse range of [research interests](https://quantileregressionlab.github.io/research.html), including multivariate quantiles, machine learning, graphical models, survey sampling, mixed-effects models and small area estimation. We are engaged in developing practical tools to help apply quantile regression in real-world scenarios and domains such as finance, economics, climate change and poverty mapping.
 
-To learn more about our work please visit our [publications](https://quantileregressionlab.github.io/sel_pubs.html).
+To learn more about our work please visit our scientific [publications](https://quantileregressionlab.github.io/sel_pubs.html).
 
 <!-- team that brings together scholars from various universities across Italy and Europe. The group is dedicated to advancing quantile regression modeling in a broad range of areas, including:
 
@@ -48,21 +48,20 @@ Put in your css file or directly in rmarkdown--->
 ```{=html}
 <style>
   .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
+    columns: 2 500px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 500px; /* chrome, safari */
+    -moz-columns: 2 500px;    /* firefox */
   }
 </style>
 ```
 ::: col2
 **News**
 
--   List of last news
--   .... <br> <br>
+- Our paper with Beatrice Foroni, Luca Merlo and Lea Petrella, "Expectile hidden Markov regression models for analyzing cryptocurrency returns" has been accepted to appear in *Statistics and Computing*. Check it out [here](https://link.springer.com/article/10.1007/s11222-023-10377-2).
 
 **Events**
 
--   Click here to see [past and upcoming events](events.html) <br> <br>
+- Click here to see [past and upcoming events](events.html) <br> <br>
 :::
 
 <br>
