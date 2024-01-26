@@ -33,85 +33,42 @@ h2, h3{
 # Meet the Team
 
 ------------------------------------------------------------------------
-
-### Director
 <center>
+:::::::::::::: {class='row'}
+::: {class='col-sm-4'}
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://quantileregressionlab.github.io/petrella.html) <br> Professor of Statistics <br> Sapienza University of Rome"}
 knitr::include_graphics("images/petrella2.jpeg")
 ``` 
-</center>
-
-<br>
-
-### Fellows
-
-<center>
-:::::::::::::: {class='row'}
-<!-- ::: {class='col-sm-4'} -->
-
-<!-- ```{r img-with-knitr, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Lea Petrella](https://quantileregressionlab.github.io/petrella.html)"} -->
-<!-- knitr::include_graphics("images/petrella.jpeg") -->
-<!-- ```  -->
-
-<!-- ::: -->
-::: {class='col-sm-6'}
-
+:::
+::: {class='col-sm-4'}
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Nicola Salvati](https://quantileregressionlab.github.io/salvati.html) <br> Professor of Statistics <br> University of Pisa"}
 knitr::include_graphics("images/salvati2.jpeg")
 ``` 
-
 :::
-
-::: {class='col-sm-6'}
-
+::: {class='col-sm-4'}
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Luca Merlo](https://quantileregressionlab.github.io/merlo.html) <br> Researcher <br> European University of Rome"}
 knitr::include_graphics("images/merlo_crop.jpeg")
 ``` 
-
 :::
 ::::::::::::::
 </center>
-
-
 <br>
-
-<!-- - [Lea Petrella](https://beatricefor.github.io/quantile-website-test-pages/petrella.html) -->
-<!-- - [Nicola Salvati](https://beatricefor.github.io/quantile-website-test-pages/salvati.html) -->
-<!-- - [Luca Merlo](https://beatricefor.github.io/quantile-website-test-pages/merlo.html) -->
-
-### Post-docs
-
 <center>
+:::::::::::::: {class='row'}
+::: {class='col-sm-4'}
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html) <br> Sapienza University of Rome"}
 knitr::include_graphics("images/foroni.jpg")
 ``` 
-</center>
-<!-- - [Beatrice Foroni](https://beatricefor.github.io/quantile-website-test-pages/foroni.html) -->
-
-<br>
-
-### PhD Students
-
-<center>
-:::::::::::::: {class='row'}
-::: {class='col-sm-6'}
-
+:::
+::: {class='col-sm-4'}
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://quantileregressionlab.github.io/andreani.html) <br> Scuola Normale Superiore of Pisa"}
 knitr::include_graphics("images/andreani.jpeg")
 ``` 
 :::
-
-::: {class='col-sm-6'}
-
+::: {class='col-sm-4'}
 ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://quantileregressionlab.github.io/saiz.html) <br> Sapienza University of Rome"}
 knitr::include_graphics("images/saiz.jpeg")
 ``` 
-
 :::
 ::::::::::::::
 </center>
-
-
-<!-- - Maria Saiz -->
-<!-- - Mila Andreani -->
-
