@@ -20,7 +20,7 @@ html_document:
 }
 ```
 
-# Collaborators
+# Participants
 
 * [Enrico Fabrizi](https://docenti.unicatt.it/ppd2/it/docenti/25341/enrico-fabrizi/profilo), Professor of Business and Economics Statistics, Università Cattolica del Sacro Cuore, Italy
 
@@ -30,17 +30,25 @@ html_document:
 
 * [Marc Hallin](https://scholar.google.be/citations?hl=en&user=5barf50AAAAJ&view_op=list_works&sortby=pubdate), Professor of Statistics, Université libre de Bruxelles, Belgium
 
+* [Maria Francesca Marino](https://www.unifi.it/p-doc2-0-0-A-3f2b3d2e34272f-0.html), Professor of Statistics, University of Florence, Italy
+
 * [Antonello Maruotti](https://lumsa.it/it/docenti/antonello-maruotti), Professor of Statistics, LUMSA University Southampton, Italy
 
 * [Antonio Punzo](https://www.dei.unict.it/docenti/antonio.punzo), Professor of Statistics, Catania University, Italy
+
+* [Maria Giovanna Ranalli](https://www.unipg.it/personale/maria.ranalli), Professor of Statistics, University of Perugia, Italy
 
 * [Timo Schmid](https://www.uni-bamberg.de/stat-oek/team/prof-dr-timo-schmid/), Professor of Statistics, Otto Friedrich University Bamberg, Germany
 
 * [Gilles Stupfler](https://math.univ-angers.fr/~stupfler/), Professor of Statistics, University of Angers, France
 
+* [Xiao Wu](https://www.publichealth.columbia.edu/profile/xiao-wu-phd), Professor of Biostatistics, Columbia University, USA
+
 <br>
 
 # Visiting Fellows
+
+* [Raymond Chambers](https://scholars.uow.edu.au/ray-chambers), Professor of Statistics, University of Wollongong, Australia
 
 * [Francesca Dominici](https://www.hsph.harvard.edu/profile/francesca-dominici/), Professor of Biostatistics, Population, and Data Science, Harvard University, USA
 
