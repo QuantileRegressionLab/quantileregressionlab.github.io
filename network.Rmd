@@ -20,7 +20,7 @@ html_document:
 }
 ```
 
-# Participants
+# Collaborations
 
 * [Enrico Fabrizi](https://docenti.unicatt.it/ppd2/it/docenti/25341/enrico-fabrizi/profilo), Professor of Business and Economics Statistics, Università Cattolica del Sacro Cuore, Italy
 
