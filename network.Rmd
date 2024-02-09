@@ -19,6 +19,12 @@ html_document:
   text-align: center;
 }
 ```
+# PhD Students
+
+* [Mila Andreani](https://quantileregressionlab.github.io/andreani.html), Scuola Normale Superiore di Pisa, Italy
+
+* [Maria Saiz](https://quantileregressionlab.github.io/saiz.html), Sapienza University of Rome, Italy
+
 
 # Collaborators
 

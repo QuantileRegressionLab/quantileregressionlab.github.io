@@ -90,26 +90,26 @@ knitr::include_graphics("images/foroni.jpg")
 
 <br>
 
-### PhD Students
+<!-- ### PhD Students -->
 
-<center>
-:::::::::::::: {class='row'}
-::: {class='col-sm-6'}
+<!-- <center> -->
+<!-- :::::::::::::: {class='row'} -->
+<!-- ::: {class='col-sm-6'} -->
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://quantileregressionlab.github.io/andreani.html) <br> Scuola Normale Superiore of Pisa"}
-knitr::include_graphics("images/andreani.jpeg")
-``` 
-:::
+<!-- ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Mila Andreani](https://quantileregressionlab.github.io/andreani.html) <br> Scuola Normale Superiore of Pisa"} -->
+<!-- knitr::include_graphics("images/andreani.jpeg") -->
+<!-- ```  -->
+<!-- ::: -->
 
-::: {class='col-sm-6'}
+<!-- ::: {class='col-sm-6'} -->
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://quantileregressionlab.github.io/saiz.html) <br> Sapienza University of Rome"}
-knitr::include_graphics("images/saiz.jpeg")
-``` 
+<!-- ```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Maria Saiz](https://quantileregressionlab.github.io/saiz.html) <br> Sapienza University of Rome"} -->
+<!-- knitr::include_graphics("images/saiz.jpeg") -->
+<!-- ```  -->
 
-:::
-::::::::::::::
-</center>
+<!-- ::: -->
+<!-- :::::::::::::: -->
+<!-- </center> -->
 
 
 <!-- - Maria Saiz -->
