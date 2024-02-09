@@ -44,3 +44,6 @@ knitr::include_graphics("images/petrella2.jpeg")
 :::
 
 ::::
+
+**Research fields**: <br>
+Her research interests include quantile regression, hidden Markov models, finite mixture models, graphical models, mixed effect models and time series analysis. She collaborates with national and international institutions, including the Harvard T.H. Chan School of Public Health (US), the University of Southampton (United Kingdom), the University of Compiègne (France), the Federal Reserve System (US), the University of Pisa (Italy), the University of Perugia (Italy), the University of Siena (Italy) and the University of Milan (Italy).

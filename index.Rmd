@@ -11,13 +11,13 @@ output:
 
 <!-- ### What we do -->
 
-The **Quantile Regression Lab** is a dynamic and innovative research group that brings together faculty, research scientists, post-doctoral fellows and PhD candidates working on statistical methodologies and applications of quantile methods in multiple contexts. [Our team](https://quantileregressionlab.github.io/people.html) is made up of people that are not only passionate about data analysis but have also made significant contributions to a variety of practically relevant sectors. The group actively engages with national and international institutions, as well as practitioners and leading experts on quantile regression from all around the world. 
+The **Quantile Regression Lab** is a dynamic and innovative research group that brings together faculty, research scientists, post-doctoral fellows and PhD candidates working on statistical methodologies and applications of quantile methods in multiple contexts. The group is made up of people that are not only passionate about data analysis but have also made significant contributions to a variety of practically relevant sectors. The group actively engages with national and international institutions, as well as practitioners and leading experts on quantile regression from all around the world.
 
-The group, established by 4 founding members, has matured into a multidimensional community of scholars that now consists of 6 members from 4 universities and colleges, with over 20 associate and affiliate faculty members from prestigious organizations. The cohesion within the group extends beyond academic collaboration, contributing to a supportive and friendly environment. The genuine friendships create a positive and inclusive atmosphere where open communication and the exchange of ideas can flourish effortlessly.
+The group, established by a team of co-founding members, has matured into a multidimensional community of associated fellows and scholars from different national and international universities. The cohesion within the group extends beyond academic collaboration, contributing to a supportive and friendly environment. The genuine friendships create a positive and inclusive atmosphere where open communication and the exchange of ideas can flourish effortlessly.
 
-At its core, the group exhibits a diverse range of [research interests](https://quantileregressionlab.github.io/research.html), including multivariate quantiles, machine learning, graphical models, survey sampling, mixed-effects models and small area estimation. We are engaged in developing practical tools to help apply quantile regression in real-world scenarios and domains such as finance, economics, climate change and poverty mapping.
+At its core, the group exhibits a diverse range of [research interests](https://quantileregressionlab.github.io/research.html), including multivariate quantiles, machine learning, graphical models, hidden Markov models, mixed frequency models, survey sampling, mixed-effects models, causal inference, behavioral experiments, time series, longitudinal data and small area estimation. We are also engaged in developing practical tools to help apply quantile regression in real-world scenarios and domains such as finance, economics, climate change and poverty mapping.
 
-To learn more about our work please visit our [publications](https://quantileregressionlab.github.io/sel_pubs.html).
+To learn more about our work please visit our scientific [publications](https://quantileregressionlab.github.io/sel_pubs.html).
 
 <!-- team that brings together scholars from various universities across Italy and Europe. The group is dedicated to advancing quantile regression modeling in a broad range of areas, including:
 
@@ -48,21 +48,20 @@ Put in your css file or directly in rmarkdown--->
 ```{=html}
 <style>
   .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
+    columns: 2 500px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 500px; /* chrome, safari */
+    -moz-columns: 2 500px;    /* firefox */
   }
 </style>
 ```
 ::: col2
 **News**
 
--   List of last news
--   .... <br> <br>
+- Our paper with Beatrice Foroni, Luca Merlo and Lea Petrella, "Expectile hidden Markov regression models for analyzing cryptocurrency returns" has been accepted to appear in *Statistics and Computing*. Check it out [here](https://link.springer.com/article/10.1007/s11222-023-10377-2).
 
 **Events**
 
--   Click here to see [past and upcoming events](events.html) <br> <br>
+- Click here to see [past and upcoming events](events.html) <br> <br>
 :::
 
 <br>
