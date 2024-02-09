@@ -25,6 +25,7 @@ html_document:
 
 * [Maria Saiz](https://quantileregressionlab.github.io/saiz.html), Sapienza University of Rome, Italy
 
+<br>
 
 # Collaborations
 
