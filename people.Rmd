@@ -82,7 +82,7 @@ knitr::include_graphics("images/merlo_crop.jpeg")
 ### Post-docs
 
 <center>
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html) <br> Sapienza University of Rome"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html) <br> Post-doc <br> Sapienza University of Rome"}
 knitr::include_graphics("images/foroni.jpg")
 ``` 
 </center>
