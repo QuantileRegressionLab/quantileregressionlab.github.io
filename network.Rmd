@@ -26,7 +26,7 @@ html_document:
 * [Maria Saiz](https://quantileregressionlab.github.io/saiz.html), Sapienza University of Rome, Italy
 
 
-# Participants
+# Collaborations
 
 * [Enrico Fabrizi](https://docenti.unicatt.it/ppd2/it/docenti/25341/enrico-fabrizi/profilo), Professor of Business and Economics Statistics, Università Cattolica del Sacro Cuore, Italy
 
