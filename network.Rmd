@@ -33,7 +33,7 @@ html_document:
 
 * [Paolo Frumento](https://www.sp.unipi.it/it/dipartimento/persone/?p=paolo-frumento), Professor of Statistics, University of Pisa, Italy
 
-* [Marco Geraci](https://web.uniroma1.it/memotef/users/geraci-marco), Professor of Statistics, University Sapienza of Rome, Italy
+* [Marco Geraci](https://web.uniroma1.it/memotef/users/geraci-marco), Professor of Statistics, Sapienza University of Rome, Italy
 
 * [Marc Hallin](https://scholar.google.be/citations?hl=en&user=5barf50AAAAJ&view_op=list_works&sortby=pubdate), Professor of Statistics, Université libre de Bruxelles, Belgium
 
