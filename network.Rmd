@@ -29,6 +29,8 @@ html_document:
 
 # Collaborations
 
+* [Valeria Bignozzi](https://en.unimib.it/valeria-bignozzi), Professor of Mathematical Methods of Economics, Finance and Actuarial Sciences, University of Milano-Bicocca, Italy
+
 * [Enrico Fabrizi](https://docenti.unicatt.it/ppd2/it/docenti/25341/enrico-fabrizi/profilo), Professor of Business and Economics Statistics, Università Cattolica del Sacro Cuore, Italy
 
 * [Paolo Frumento](https://www.sp.unipi.it/it/dipartimento/persone/?p=paolo-frumento), Professor of Statistics, University of Pisa, Italy
