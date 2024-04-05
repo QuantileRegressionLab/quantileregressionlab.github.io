@@ -31,6 +31,11 @@ html_document:
 
 * [Valeria Bignozzi](https://en.unimib.it/valeria-bignozzi), Professor of Mathematical Methods of Economics, Finance and Actuarial Sciences, University of Milano-Bicocca, Italy
 
+* [Francesca Dominici](https://www.hsph.harvard.edu/profile/francesca-dominici/), Professor of Biostatistics, Population, and Data Science, Harvard University, USA
+
+* [Nikos Tzavidis](https://www.southampton.ac.uk/people/5wzwrv/professor-nikos-tzavidis), Professor of Statistics, University of Southampton, UK
+>>>>>>> Stashed changes
+
 * [Enrico Fabrizi](https://docenti.unicatt.it/ppd2/it/docenti/25341/enrico-fabrizi/profilo), Professor of Business and Economics Statistics, Università Cattolica del Sacro Cuore, Italy
 
 * [Paolo Frumento](https://www.sp.unipi.it/it/dipartimento/persone/?p=paolo-frumento), Professor of Statistics, University of Pisa, Italy
@@ -55,7 +60,7 @@ html_document:
 
 <br>
 
-# Visiting Fellows
+# Visiting Professors
 
 * [Raymond Chambers](https://scholars.uow.edu.au/ray-chambers), Professor of Statistics, University of Wollongong, Australia
 
