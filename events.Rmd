@@ -11,7 +11,11 @@ output:
 
   **Upcoming events**
   
-<br>
+```{r, echo=FALSE}
+library(htmltools)
+htmltools::includeHTML("events_future.html")
+```
+  <br>
   
   **Past events**
 
@@ -19,5 +23,5 @@ output:
   
 ```{r, echo=FALSE}
 library(htmltools)
-htmltools::includeHTML("events_cards.html")
+htmltools::includeHTML("events_past.html")
 ```
