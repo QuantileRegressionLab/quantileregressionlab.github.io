@@ -57,9 +57,9 @@ Put in your css file or directly in rmarkdown--->
 ::: col2
 **News**
 
-- Our paper with Valeria Bignozzi, Luca Merlo and Lea Petrella, "Inter-order relations between equivalence for L$_p$-quantiles of the Student's $t$ distribution" has been published in *Insurance: Mathematics and Economics*. Check it out [here](https://www.sciencedirect.com/science/article/pii/S0167668724000222).
+- Our paper with Beatrice Foroni, Luca Merlo and Lea Petrella, "Quantile and expectile copula-based hidden Markov regression models for the analysis of the cryptocurrency market" has been published in *Statistical Modelling*. Check it out [here](https://journals.sagepub.com/share/HV8KJVAJI6GD92ICSYPK?target=10.1177/1471082X241279513).
 
-- Our paper with Beatrice Foroni, Luca Merlo and Lea Petrella, "Expectile hidden Markov regression models for analyzing cryptocurrency returns" has been published in *Statistics and Computing*. Check it out [here](https://link.springer.com/article/10.1007/s11222-023-10377-2).
+- Our paper with Valeria Bignozzi, Luca Merlo and Lea Petrella, "Inter-order relations between equivalence for L$_p$-quantiles of the Student's $t$ distribution" has been published in *Insurance: Mathematics and Economics*. Check it out [here](https://www.sciencedirect.com/science/article/pii/S0167668724000222).
 
 **Events**
 
