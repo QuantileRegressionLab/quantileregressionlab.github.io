@@ -35,7 +35,9 @@ knitr::include_graphics("images/foroni.jpg")
 ::: {.column width="75%"}
 # Beatrice Foroni
 
-**Post-doc in Statistics at University of Pisa (Italy), Ph.D. in Models for Economics and Finance.**
+**Post-doc in Statistics at Sapienza University of Rome (Italy), Ph.D. in Models for Economics and Finance.**
+<br>
+`r icons::fontawesome("globe")` [Personal website page](https://beatriceforoni.github.io/) 
 <br>
 `r icons::fontawesome("telegram-plane")` [Website page](https://web.uniroma1.it/memotef/users/foroni-beatrice) 
 :::

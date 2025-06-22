@@ -64,7 +64,7 @@ knitr::include_graphics("images/salvati2.jpeg")
 
 ::: {class='col-sm-6'}
 
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Luca Merlo](https://quantileregressionlab.github.io/merlo.html) <br> Researcher <br> European University of Rome"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Luca Merlo](https://quantileregressionlab.github.io/merlo.html) <br> Associate Professor of Statistics <br> Unilink Campus University of Rome"}
 knitr::include_graphics("images/merlo_crop.jpeg")
 ``` 
 
@@ -82,7 +82,7 @@ knitr::include_graphics("images/merlo_crop.jpeg")
 ### Post-docs
 
 <center>
-```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html) <br> Post-doc <br> University of Pisa"}
+```{r, echo=FALSE, out.extra='class="myimg"', fig.cap= "[Beatrice Foroni](https://quantileregressionlab.github.io/foroni.html) <br> Post-doc <br> Sapienza University of Rome"}
 knitr::include_graphics("images/foroni.jpg")
 ``` 
 </center>
