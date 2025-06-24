@@ -34,7 +34,7 @@ knitr::include_graphics("images/merlo_crop.jpeg")
 ::: {.column width="75%"}
 # Luca Merlo
 
-**Associate Professor in Statistics at the Unilink Campus University of Rome (Italy), Ph.D. in Methodological Statistics.**
+**Associate Professor in Statistics at the Link Campus University of Rome (Italy), Ph.D. in Methodological Statistics.**
 <br>
 `r icons::fontawesome("globe")` [Personal website page](https://luca-merlo.github.io/) 
 <br>
